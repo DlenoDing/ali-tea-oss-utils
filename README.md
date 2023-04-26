@@ -9,7 +9,7 @@
 ### Composer
 
 ```bash
-composer require alibabacloud/tea-oss-utils
+composer require dleno/ali-tea-oss-utils
 ```
 
 ## 问题
